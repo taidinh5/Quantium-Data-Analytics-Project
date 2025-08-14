@@ -50,8 +50,8 @@ Evaluate the performance of new store layouts trialed in **Stores 77, 86, and 88
 ---
 
 ## 🛠 Tools & Skills Used
-- **Python / R** for data cleaning, analysis, and visualization.
-- **Pandas, NumPy, Matplotlib, Seaborn** for data wrangling & plotting.
+- **R** for data cleaning, analysis, and visualization.
+- **Tidyverse, Data.Table, Lubridate** for data wrangling & plotting.
 - **Statistical Analysis** (Pearson correlation, hypothesis testing).
 - **Feature Engineering** for brand and pack size extraction.
 - **Data Storytelling** – creating clear, actionable recommendations backed by visuals.
